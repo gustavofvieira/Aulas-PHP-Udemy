@@ -1,0 +1,44 @@
+- [x] **Conhecendo a Linguagem**
+  - [x] Utilizando Variáveis
+  - [x] Tipos de Dados
+  - [x] Variáveis pré definidas
+  - [x] Escopo de Variável
+  - [x] Operadores
+  - [x] Strings
+  - [x] Include
+  - [x] Require
+
+---
+- [x] **Condicionais**
+  - [x] If, Else, ElseIf
+  - [x] Switch Case
+
+---
+- [x] **Laços de Repetição** 
+  - [x] For
+  - [x] Foreach
+  - [x] While
+  - [x] Do While
+
+---
+- [ ] **Arrays** 
+  - [ ] Array
+  - [ ] JSON
+  - [ ] Constantes e Array Constantes
+---
+- [ ] **Sessão**
+  - [ ] Criando Sessão
+  - [ ] Id de Sessão
+  - [ ] Funções para Sessão
+---
+- [ ] **Funções**
+  - [ ] Criando Funções
+  - [ ] Parâmetros de funções 
+  - [ ] Parâmetros por valor X Parâmetros por Referência
+  - [ ] Funções Recursivas
+  - [ ] Funções Anônimas
+---
+- [ ] **Data e Hora**
+  - [ ] Função date() e Função Time()
+  - [ ] Definindo com SetLocale()
+  - [ ] Classe DateTime

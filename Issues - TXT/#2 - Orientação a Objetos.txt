@@ -1,0 +1,13 @@
+- [ ] **Orientação a Objetos**
+  - [ ] Criando Classe
+  - [ ] Atributos e Métodos 
+  - [ ] Métodos Estáticos
+  - [ ] Métodos Mágicos
+  - [ ] Encapsulamento
+  - [ ] Herança
+  - [ ] Interface
+  - [ ] Classe Abstrata
+  - [ ] Polimorfismo
+  - [ ] Autoload
+  - [ ] Namespase
+---

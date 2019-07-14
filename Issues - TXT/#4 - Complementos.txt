@@ -1,0 +1,65 @@
+- [ ] **Manipulando Arquivos**
+  - [ ] Lendo e manipulando diretórios com PHP7
+  - [ ] Criando arquivos com fopen()
+  - [ ] Excluindo arquivos
+  - [ ] Lendo conteúdo de arquivos
+  - [ ] Upload de arquivos com PHP7
+  - [ ] Download de arquivos com file_get_contents
+  - [ ] Movendo um arquivo
+  - [ ] Usando cURL
+  - [ ] Usando Cookies
+
+---
+
+- [ ] **Try Catch**
+  - [ ] Try e Catch
+  - [ ] Tratando Erros
+  
+---
+
+- [ ] **Imagens com Biblioteca GD**
+  - [ ] Processamento de Imagem (GD)
+  - [ ] Usando imagem existente (GD)
+  - [ ] Fontes TTF (GD)
+  - [ ] Gerando Thumbnail(GD)
+
+---
+
+- [ ] **Gerando Boletos**
+  - [ ] Gerar Boleto
+
+---
+
+- [ ] **Gerando dependências com o composer**
+  - [ ] Trabalhando com Composer
+
+---
+- [ ] **Email com PHPMailer**
+  - [ ] Enviando Email com PHPMailer
+---
+
+- [ ] **Criando Templates com RainTPL**
+  - [ ] Trabalhando com templates usando RainTPL
+
+---
+- [ ] **Diretórios Virtuais com Apache**
+  - [ ] Utilizando Apache para criar Virtual Hosts
+---
+
+- [ ] **Slim Framework**
+  - [ ] Conhecendo o Slim Framework
+
+---
+- [ ] **Segurança no PHP7**
+  - [ ] Command Injection
+  - [ ] SQL Injection
+  - [ ] Entendendo permissões de pasta
+  - [ ] Usando o reCaptcha para impedir Robôs
+  - [ ] Cross site Scripting
+  - [ ] Defense in depth
+  - [ ] SSL e PHP Session Hijacking
+---
+
+- [ ] **Aula Bônus**
+  - [ ] Aula Bônus
+

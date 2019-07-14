@@ -1,0 +1,24 @@
+- [ ] **Workbench**
+  - [ ] Acessando Dados
+  - [ ] Visão geral MySQL
+---
+- [ ] **MySQLi**
+  - [ ] MySQLi && PHP
+---
+- [ ] **PDO**
+  - [ ] Conectando o PHP7 com o MySQL usando o PDO
+  - [ ] SQL Server Express
+  - [ ] Conectando o PHP7 com o SQL Server usando o PDO
+  - [ ] Inserindo dados no Banco
+  - [ ] Alterando Dados no Banco
+  - [ ] Apagando Dados no Banco
+  - [ ] Usando Transações
+---
+- [ ] **Data Access Object**
+  - [ ] PDO - DAO
+  - [ ] PDO - DAO - SELECT
+  - [ ] PDO - DAO - LIST
+  - [ ] PDO - DAO - INSERT
+  - [ ] PDO - DAO - UPDATE
+  - [ ] PDO - DAO - DELETE
+---
