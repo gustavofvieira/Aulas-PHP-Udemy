@@ -25,6 +25,32 @@ echo json_encode($usuarios);*/
 ###############################
 
 # Login User
-$user = new Usuario();
-$user->login("root","123456");
-echo $user;
+//$user = new Usuario();
+//$user->login("root","123456");
+//echo $user;
+###########################
+############## COnstruct
+//$aluno = new Usuario("Por Construtor","Senha");
+//$aluno->setDeslogin("aluno");
+//$aluno->setDessenha("senha");
+//$aluno->insert();
+  
+//echo $aluno;
+###########################
+
+
+#UPDATE USER
+
+$usuario = new Usuario();
+$usuario->loadById(5);
+$usuario->update("professor", "testeprof");
+echo $usuario;
+########################################
+/*
+#Delete
+$usuario = new Usuario();
+$usuario->loadById(6);
+$usuario->delete();
+echo $usuario;
+
+*/
